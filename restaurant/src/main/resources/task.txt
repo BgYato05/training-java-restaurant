@@ -1,0 +1,13 @@
+Tener proyecto creado(restaurante) - done
+Crear los Controller para:
+Client - done
+Product
+Order
+Crear los Service deben devolver un valor dummy
+Client - :done_2:
+Product
+Order
+Los métodos en los controllers deben llamar a los service y devolver el mismo valor dummy
+Crear el paquete entity y hacer las clases para Client y Product con los campos que estan definidos en el documento. Ej: ClientEntity(Sin anotaciones).
+Crear el paquete model y hacer las clases ClientDto y ProductDto
+Crear un paquete mapper y una vez creadas las clases hacer el mapper de la clase al Dto. Ej: ClientEntityToDtoMapper
